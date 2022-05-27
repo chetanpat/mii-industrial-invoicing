@@ -2,6 +2,6 @@
 # Microservices vars
 ################################################################
  
-  global_mef_image_version: "1.18.17"
+  global_mef_image_version: "version_change"
   mie_eliade_connector_image_version: "{{global_mef_image_version}}"
   mie_recycle_connector_image_version: "{{global_mef_image_version}}"
